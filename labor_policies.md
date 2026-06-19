@@ -53,7 +53,7 @@ A mixed approach: the **$10bn Housing Australia Future Fund**, **Help to Buy** s
 **Where the Coalition, Greens & One Nation stand:**
 - **Coalition — Oppose (sharper now).** Backed the Stage 3 redesign but **opposes the $3m super tax and the 2026 negative-gearing/CGT changes**, vowing to keep the investor tax breaks; prefers indexing tax brackets instead.
 - **Greens — Partly agree (want more).** Supported the tax cuts (wanting them more progressive), back taxing high super balances, and have **long campaigned for exactly this negative-gearing/CGT wind-back** — a significant win — though they want it to go further (all assets, no grandfathering) plus a billionaire/corporate super-profits tax.
-- **One Nation — Mixed/Oppose.** Pro income-tax cuts (agree), but likely opposes the super tax and the new property-tax measures (anti-new-taxes; courts self-funded retirees) — *stance inferred, not a recorded vote.*
+- **One Nation — Oppose (property-tax measures).** Pro income-tax cuts, but **opposes the negative-gearing and CGT changes** — anti-new-tax, and courts self-funded retirees/property investors who would be hit. (No recorded vote on the 2026 Budget measures, but firmly consistent with its platform; scored as a strong opponent alongside the Coalition.)
 
 ### 6. Cheaper education & childcare
 **20% cut to all student (HELP) debt** (~$16bn wiped) plus a higher repayment threshold, **fee-free TAFE**, and a childcare **"Three-Day Guarantee"** (from Jan 2026) abolishing the activity test as a step toward universal childcare.

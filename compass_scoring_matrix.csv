@@ -1,23 +1,23 @@
 qid,protagonist,source,domain,big_idea,Labor,Coalition,OneNation,Greens
 Q1,Greens,platform,Climate,"Government must force the transition off fossil fuels (no new coal/gas, 75% by 2030)",-1,-2,-2,2
-Q2,Greens,platform,Tax & economy,"Tax billionaires and big corporations to fund public services",-1,-2,1,2
+Q2,Greens,platform,Tax & economy,"Tax billionaires and big corporations to fund public services",-1,-2,0,2
 Q3,Greens,platform,Immigration & refugees,"End offshore detention, raise refugee intake to 50,000, permanent visas",-2,-2,-2,2
 Q4,Greens,legislation,Housing,"Freeze and cap rents; public developer builds homes",-1,-2,-1,2
 Q5,Greens,legislation,Foreign policy & defence,"Cut military spending, redirect funds to diplomacy and foreign aid",-2,-2,0,2
 Q6,Greens,platform,AUKUS,"Cancel the AUKUS nuclear-submarine deal with the US and UK",-2,-2,0,2
 Q7,Labor,legislation,Industrial relations,"Stronger worker rights: multi-employer bargaining, same job same pay, right to disconnect",2,-2,-1,1
 Q8,Labor,platform,Health,"Strengthen Medicare: 90% bulk-billing, $25 PBS scripts",2,0,1,1
-Q9,Labor,legislation,Housing & tax,"Limit negative gearing to new builds only (no writing off rental losses on established homes)",2,-2,-1,2
-Q10,Labor,legislation,Capital gains tax,"Scrap the 50% CGT discount; 30% minimum tax on gains across all assets, small-business carve-outs",2,-2,-1,2
+Q9,Labor,legislation,Housing & tax,"Limit negative gearing to new builds only (no writing off rental losses on established homes)",2,-2,-2,2
+Q10,Labor,legislation,Capital gains tax,"Scrap the 50% CGT discount; 30% minimum tax on gains across all assets, small-business carve-outs",2,-2,-2,2
 Q11,Labor,legislation,Industry & climate,"Subsidise green industries via production tax credits (Future Made in Australia)",2,-2,-2,1
 Q12,Labor,platform,Education,"Cut all student (HELP) debt 20%, lift repayment threshold, fee-free TAFE",2,-1,-1,1
 Q13,Labor,platform,Childcare & family,"Three-Day childcare guarantee, abolish activity test, toward universal childcare",2,-1,-2,1
 Q14,Labor,legislation,Online misinformation,"Give the media regulator power to make platforms manage seriously harmful misinformation",2,-2,-2,1
 Q15,Labor,legislation,Online safety,"Require platforms to stop under-16s holding social-media accounts (age-verification)",2,2,-2,-1
 Q16,Coalition,legislation,Borders & security,"Firm borders: offshore processing, turnbacks, detention/removal",1,2,2,-2
-Q17,Coalition,platform,Tax (bracket creep),"Permanently index income-tax thresholds to inflation to end bracket creep (Tax Back Guarantee)",-1,2,1,-2
+Q17,Coalition,platform,Tax (bracket creep),"Permanently index income-tax thresholds to inflation to end bracket creep (Tax Back Guarantee)",-1,2,0,-2
 Q18,Coalition,platform,Smaller government,"$50k small-business instant asset write-off and cut government spending",-1,2,2,-2
-Q19,Coalition,platform,Public debt,"Dedicated national fund banks resource windfalls to pay down public debt (Future Generations Fund)",0,2,1,0
+Q19,Coalition,platform,Public debt,"Dedicated national fund banks resource windfalls to pay down public debt (Future Generations Fund)",0,2,0,0
 Q20,Coalition,platform,Energy,"Scrap net zero/2030 targets, back coal and gas",-2,2,2,-2
 Q21,Coalition,platform,Nuclear power,"Lift the federal ban on nuclear power and build nuclear plants",-2,2,2,-2
 Q22,Coalition,platform,Housing,"Let first-home buyers withdraw up to $50k of super for a deposit",-2,2,0,-2
@@ -28,4 +28,4 @@ Q26,One Nation,platform,Indigenous recognition,"Wind back Indigenous-specific ag
 Q27,One Nation,platform,COVID & medical freedom,"Oppose vaccine mandates; defend medical freedom; royal commission into the pandemic response",-1,1,2,0
 Q28,One Nation,platform,Free speech,"Enshrine free speech in the Constitution as a protected right",-1,0,2,-1
 Q29,One Nation,platform,Direct democracy,"Introduce Citizen Initiated Referenda — binding national votes on laws citizens propose",-1,0,2,-1
-Q30,One Nation,platform,Family & tax,"Income splitting — tax couples as one household on their combined income",-1,1,2,-2
+Q30,One Nation,platform,Family & tax,"Income splitting — tax couples as one household on their combined income",-1,0,2,-2

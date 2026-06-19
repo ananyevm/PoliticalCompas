@@ -58,7 +58,7 @@ A **two-year national rent freeze then a 2%-per-2-years cap**, a **public proper
 - **One Nation — Oppose (with one narrow overlap).** Hanson called debt write-offs "ridiculous," but One Nation proposes HECS forgiveness for doctors/nurses who serve in the regions — opposes the universal wipe.
 
 ### 6. End offshore detention + raise refugee intake
-**Abolish offshore processing and indefinite/mandatory detention** ("Close the Camps"), **raise the humanitarian intake to 50,000**, grant permanent visas, and treat seeking asylum as a lawful right.
+**Abolish offshore processing and indefinite/mandatory detention** ("Close the Camps"), **raise the humanitarian intake to 50,000**, grant permanent visas, and treat seeking asylum as a lawful right. *(Baseline for context: Australia's current permanent Humanitarian Program is ~20,000 places/year — so 50,000 is ~2.5×. This baseline is external real-world data, not a Greens figure; verify if the figure is load-bearing.)*
 *Sources: greens.org.au/policies/immigration-and-refugees, /campaigns/close-the-camps.*
 
 **Where Labor, Coalition & One Nation stand:**

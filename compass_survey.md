@@ -20,10 +20,10 @@ Tackling climate change should override other economic concerns, and government 
 ### Q2 · Greens · platform · Tax & economy
 Billionaires and big corporations should pay much more so everyone can have strong public services. To achieve this, billionaires should pay a 10% annual tax on their wealth and the largest companies a 40% extra tax on their biggest profits, funding services like dental into Medicare and free education.
 **Known trade-off:** opponents argue very high taxes drive investment and wealthy individuals offshore and can slow the economy.
-*Scoring — Greens +2 · Labor −1 · Coalition −2 · One Nation +1*
+*Scoring — Greens +2 · Labor −1 · Coalition −2 · One Nation 0*
 
 ### Q3 · Greens · platform · Immigration & refugees
-Australia has a humanitarian duty to people seeking asylum, even at some cost to border control. To achieve this, holding asylum seekers in detention centres in other countries should be ended, the refugee intake raised to 50,000 a year, and permanent visas given to people found to be refugees.
+Australia has a humanitarian duty to people seeking asylum, even at some cost to border control. To achieve this, holding asylum seekers in detention centres in other countries should be ended, the refugee intake raised to 50,000 a year — about two-and-a-half times the current humanitarian intake of around 20,000 — and permanent visas given to people found to be refugees.
 **Known trade-off:** critics say this weakens border control and could restart dangerous boat journeys and people-smuggling.
 *Scoring — Greens +2 · Labor −2 · Coalition −2 · One Nation −2*
 
@@ -47,7 +47,7 @@ Australia should not tie itself to a US-led nuclear-submarine build-up. To achie
 ## Labor-protagonist
 
 ### Q7 · Labor · legislation · Industrial relations
-Workers need stronger rights and bargaining power against large employers. To achieve this, unions should be allowed to negotiate pay across several employers at once, casual and agency workers should get equal pay for the same job as permanent staff, workers should gain a right to ignore work calls and messages outside business hours.
+Workers need stronger rights and bargaining power against large employers. To achieve this, unions should be allowed to negotiate pay across several employers at once, labour-hire workers should be paid at least as much as a company's own staff doing the same job, and workers should gain a right to ignore work calls and messages outside business hours.
 **Known trade-off:** business groups say these rules raise costs, reduce flexibility and risk more industrial disputes.
 *Scoring — Labor +2 · Greens +1 · Coalition −2 · One Nation −1*
 
@@ -59,12 +59,12 @@ Healthcare should be free or near-free when you need it, funded by government. T
 ### Q9 · Labor · legislation · Housing & tax
 Property investor tax breaks should be wound back so first-home buyers aren't outbid by investors. To achieve this, negative gearing should be limited to new builds, so investors can no longer write off rental losses against their wages on established homes.
 **Known trade-off:** investors and some economists warn this could reduce rental supply or push up rents.
-*Scoring — Labor +2 · Greens +2 · Coalition −2 · One Nation −1*
+*Scoring — Labor +2 · Greens +2 · Coalition −2 · One Nation −2*
 
 ### Q10 · Labor · legislation · Capital gains tax
 Taxing labour income at a higher rate than investment income is unfair. To rectify this, the 50% capital-gains tax discount should be scrapped and replaced with a flat 30% minimum tax on investment profits, applied across all asset types, with limited carve-outs for small businesses.
 **Known trade-off:** investors and some economists warn a broad minimum tax on gains could discourage investment and risk-taking, while the small-business carve-outs add complexity and loopholes.
-*Scoring — Labor +2 · Greens +2 · Coalition −2 · One Nation −1*
+*Scoring — Labor +2 · Greens +2 · Coalition −2 · One Nation −2*
 
 ### Q11 · Labor · legislation · Industry & climate
 Government should actively back new clean-energy industries rather than leave it to the market. To achieve this, new clean-energy industries like hydrogen and battery minerals should be subsidised by the government.
@@ -103,7 +103,7 @@ Australia must keep firm control of its borders, even if that means tough measur
 ### Q17 · Coalition · platform · Tax (bracket creep)
 People shouldn't pay more tax each year just because inflation pushes them into higher brackets. To achieve this, income-tax thresholds should be permanently indexed to inflation to end "bracket creep" (inflation quietly pushing people into higher tax brackets).
 **Known trade-off:** locking in indexation drains government revenue over time and, critics argue, gives the biggest dollar gains to higher earners.
-*Scoring — Coalition +2 · One Nation +1 · Labor −1 · Greens −2*
+*Scoring — Coalition +2 · One Nation 0 · Labor −1 · Greens −2*
 
 ### Q18 · Coalition · platform · Smaller government
 The tax system must be favourable to small business. To achieve this, small businesses should be able to immediately deduct the cost of equipment (up to $50,000) from their taxable income, and government spending should be cut.
@@ -113,7 +113,7 @@ The tax system must be favourable to small business. To achieve this, small busi
 ### Q19 · Coalition · platform · Public debt
 Resource-boom windfalls should be saved to pay down government debt rather than spent. To achieve this, a dedicated national fund should bank mining and resource windfalls to reduce public debt for future generations.
 **Known trade-off:** critics say locking money away for debt reduction starves public services and infrastructure of funds that could be used now.
-*Scoring — Coalition +2 · One Nation +1 · Labor 0 · Greens 0*
+*Scoring — Coalition +2 · One Nation 0 · Labor 0 · Greens 0*
 
 ### Q20 · Coalition · platform · Energy
 Cheap, reliable power matters more than meeting emissions targets. To follow this principle, the targets to cut emissions to net zero by 2050 and sharply by 2030 should be scrapped, and coal and gas kept running.
@@ -131,7 +131,7 @@ First-home buyers should be able to use their own savings — including super �
 *Scoring — Coalition +2 · One Nation 0 · Labor −2 · Greens −2*
 
 ### Q23 · Coalition · legislation · Industrial relations
-Current workplace laws have tilted too far toward unions and should be wound back. To achieve this, the right to ignore work calls and messages outside business hours should be scrapped, pay deals covering several employers at once rolled back, and equal pay for casual and agency workers unwound.
+Current workplace laws have tilted too far toward unions and should be wound back. To achieve this, the right to ignore work calls and messages outside business hours should be scrapped, pay deals covering several employers at once rolled back, and the requirement that labour-hire workers be paid the same as a company's own staff unwound.
 **Known trade-off:** unions warn this strips away protections and bargaining power that lift wages and job security.
 *Scoring — Coalition +2 · One Nation +1 · Labor −2 · Greens −2*
 
@@ -172,7 +172,7 @@ Voters should be able to put proposed laws directly to a national vote, not just
 ### Q30 · One Nation · platform · Family & tax
 Couples share their income and living costs, so they should be taxed as one household rather than as two separate individuals. To achieve this, couples should be allowed to combine their incomes and split them evenly for tax, so that two households with the same total income pay the same tax regardless of how it is divided between partners.
 **Known trade-off:** critics say income splitting mainly benefits higher-income single-earner households and discourages women's workforce participation.
-*Scoring — One Nation +2 · Coalition +1 · Labor −1 · Greens −2*
+*Scoring — One Nation +2 · Coalition 0 · Labor −1 · Greens −2*
 
 ---
 
@@ -188,8 +188,8 @@ Couples share their income and living costs, so they should be taxed as one hous
    |---|---|
    | Greens | 47 |
    | Labor | 47 |
-   | Coalition | 46 |
-   | One Nation | 44 |
+   | Coalition | 45 |
+   | One Nation | 43 |
 
 5. **Match% = (raw_p + max_p) / (2 × max_p) × 100.** This yields 0–100 for every party (50 = neutral), so the maximum is 100% for all four — equal by construction.
 
@@ -198,7 +198,7 @@ Respondent answers only Q1 *Strongly Agree* and Q24 *Strongly Agree*, Neutral on
 - Q1 (Agree): Greens +2, Labor −1, Coalition −2, One Nation −2
 - Q24 (Agree): One Nation +2, Coalition +1, Labor −1, Greens −2
 - raw: Greens 0, Labor −2, Coalition −1, One Nation 0
-- Match%: Greens (0+47)/94 = 50% · Labor (−2+47)/94 = 48% · Coalition (−1+46)/92 = 49% · One Nation (0+44)/88 = 50%
+- Match%: Greens (0+47)/94 = 50% · Labor (−2+47)/94 = 48% · Coalition (−1+45)/90 = 49% · One Nation (0+43)/86 = 50%
   (Neutral-heavy answers sit near 50%, as expected; the two strong answers slightly pull the pro-migration-cut and pro-climate-action signals.)
 
 ## Design notes
